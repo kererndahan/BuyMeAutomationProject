@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="extent libs">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/extent libs" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/extent libs" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/extent libs" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/extent libs" recursive="false" type="SOURCES" />
+  </library>
+</component>
